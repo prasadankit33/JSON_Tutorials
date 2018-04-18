@@ -1,0 +1,12 @@
+API- Application Programming Interface
+openweather.org/? 
+-> Here '?' indicates it would accept some parameters
+
+openweather.org/?city=Delhi	
+-> Here 'city = Delhi' is name-value pair
+
+openweather.org/?city=Delhi&	
+-> Multiple query strings are joined by '&'
+
+openweather.org/?city=Delhi&appid=YOUR_API_KEY
+-> For gaining access to data we need to add API-Key 	
